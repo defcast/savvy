@@ -47,8 +47,7 @@
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer5" />
-  <style
-     id="style910">
+  <style>
         @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
         @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
         @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
@@ -58,9 +57,10 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="black">
-    -webkit-animation:spin 4s linear infinite;
+    <style>="-webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
+    </style>
     <g
        transform="matrix(0.99219,0,0,0.99219,125.903,-127.039)"
        id="g1105"
@@ -87,9 +87,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="blue">
-    -webkit-animation:spin 4s linear infinite;
+    <style>="-webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
+    </style>
     <g
        style="stroke:#44687c"
        transform="matrix(0.99219,0,0,0.99219,125.903,-127.039)"
