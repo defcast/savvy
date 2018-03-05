@@ -1,0 +1,212 @@
+<style>
+.so-content h1 {
+    color: #fff;
+    font-size: 2.5em;
+}
+body {
+    color: #666666;
+}
+p {
+    font-size: 1.1em;
+}
+h1 {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+h2 {
+    font-size: 2.2em;
+    padding-top: 0;
+    color: #49687b;
+}
+h3 {
+    font-size: 2em;
+    text-align: center;
+}
+nav.main {
+    padding: 5px 20px;
+}
+nav.main.scrolled-down {
+    padding: 5px 24px;
+}
+.top-common-section .flexslider {
+    margin-top: 45px;
+    margin-bottom: 0px;
+    background: #49687b;
+}
+.support-top-info {
+    background: #666666;
+}
+
+.so-body p {
+    color: #cccccc;
+    line-height: 30px;
+    font-size: 26px;
+}
+.c-divider {
+    margin-top: 20px;
+}
+.button-image {
+    text-align: center;
+}
+.indented-content {
+    text-align: center;
+}
+.indented-content2 {
+	text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.scroller-title {
+    text-align: center;
+    font-size: 48px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    line-height: 1;
+}
+.background-video-arrow {
+	display: none;
+}
+.flex-control-paging li a {
+    width: 54px;
+    height: 54px;
+    display: block;
+    cursor: pointer;
+    text-indent: -9999px;
+    background: url(/resources/theme/dots5.png) no-repeat;
+    background-size: cover;
+    opacity: .5;
+}
+.flex-control-paging li a:hover {
+    opacity: .8;
+}
+.flex-control-paging li a.flex-active {
+    opacity: .8;
+}
+.flex-control-nav {
+	margin-top: -70px;
+}
+.plx-0 {
+    background-image: url(/resources/content/image-towers.jpg);
+}
+.plx-service-1 {
+    background: url(/resources/content/heli-overlay.jpg);
+}
+.plx-contact-3 {
+    background: url(/resources/content/heli-man.jpg);
+}
+.home-mission {
+	text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 16px;
+}
+.home-mission h5 {
+	font-size: 28px;
+    color: #49687b;
+    letter-spacing: 5px;
+    font-weight: 600;
+}
+.home-mission .col-sm-4 {
+	margin-bottom: 14px;
+}
+h2.segment {
+	text-align: center;
+    margin-bottom: 10px;
+}
+footer.main {
+    padding: 0 0 3em;
+    background: #f4f4f4;
+    padding-top: 20px;
+}
+section.news-overview {
+	padding: 2.2em 0 0 0;
+}
+.plx-news-1 {
+    background-image: url(/resources/content/helicopter-cnc.jpg);
+}
+.plx-contact-1 {
+    background-image: url(/resources/theme/image-controls.jpg);
+}
+.plx-1 {
+    background-image: url(/resources/theme/image-nyc.jpg);
+}
+.plx-about-0 {
+    background-image: url(/resources/theme/image-team.jpg);
+}
+.plx-about-1 {
+    background-image: url(/resources/theme/image-heli-divers.jpg);
+}
+.plx-contact-us {
+    background: url(/resources/content/pilot.jpg);
+}
+.plx-contact-us2 {
+    background: url(/resources/content/image-aerial.jpg);
+}
+.contact-info {
+	margin-bottom: 0;
+}
+.col-sm-4 {
+	padding-bottom: 20px;
+}
+.footdiv {
+    display: none;
+}
+.c-logo {
+    padding: 10px 0;
+}
+#home-news-events {
+    opacity: 0;
+    margin-top: 24px;
+}
+.footer-brand {
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+nav.main {
+    padding: 10px 20px;
+}
+nav.main.scrolled-down {
+    padding: 10px 24px;
+}
+.service-contact {
+    padding-top: 20px;
+}
+
+.clients-overview {
+    padding-bottom: 0px;
+}
+.about-clients-section {
+	padding-top: 10px;
+}
+.scroll-arrow {
+    width: 4em;
+}
+}
+#about-clients .indented-content {
+	padding: 0;
+}
+.c-divider {
+    display: none;
+}
+@media only screen and (min-width: 850px) {
+.top-common-section .flexslider {
+    min-height: 560px;
+}
+}
+@media only screen and (max-width: 850px) {
+.so-container.container {
+    width: 100%;
+    position: relative;
+}
+.flexslider.site-flexslider {
+    min-height: 440px;
+    height: auto;
+}
+ol.flex-control-nav.flex-control-paging {
+    margin-top: -70px;
+}
+.c-logo img {
+    max-width: 100%;
+}
+}
+</style>
