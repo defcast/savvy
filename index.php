@@ -35,8 +35,6 @@
 <body>
 <object type="image/svg+xml" data="resources/img/cnc-live-svgo.svg">
   <img src="resources/img/cnc-live.png" alt="cnc technologies" />
-</object><object type="image/svg+xml" data="resources/img/cnc-live.svg">
-  <img src="resources/img/cnc-live.png" alt="…" />
 </object>
 </body>
 </html>
