@@ -3,6 +3,7 @@
         @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
         @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
         @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+        transform:rotate(360deg); } }
     </style>
     <g id="layer1" transform="translate(0 -257.313)" style="">
         <g id="g1121" transform="matrix(.99219 0 0 .99219 125.903 130.274)" fill="#c4c6c7" stroke-width="2.024">
