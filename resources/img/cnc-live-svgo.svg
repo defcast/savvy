@@ -48,10 +48,13 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="layer5" />
   <style>
-        @-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-        @-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-        @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
-        transform:rotate(360deg); } }
+        .blu {
+            -webkit-transform: rotate(360deg);
+            -webkit-transition-duration: 1s;
+            -webkit-transition-delay: now;
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-iteration-count: infinite;
+        }
     </style>
   <g
      inkscape:groupmode="layer"
@@ -60,7 +63,7 @@
     <g
        transform="matrix(0.99219,0,0,0.99219,125.903,-127.039)"
        id="g1105"
-       style="-webkit-animation:spin 4s linear infinite;-moz-animation:spin 4s linear infinite;animation:spin 4s linear infinite; stroke:#000000">
+       style="stroke:#000000">
       <path
          style="fill:none;stroke-width:2.02399993;stroke-opacity:0.91799999"
          inkscape:connector-curvature="0"
@@ -83,8 +86,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="blue">
-    <g
-       style="-webkit-animation:spin 4s linear infinite;-moz-animation:spin 4s linear infinite; animation:spin 4s linear infinite; stroke:#44687c"
+    <g class="blu"
+       style="stroke:#44687c"
        transform="matrix(0.99219,0,0,0.99219,125.903,-127.039)"
        id="g1111">
       <path
