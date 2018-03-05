@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="470" height="150" viewBox="0 0 124.354 39.688" id="svg1967">
     <style>
-        @-webkit-keyframes rotate{50%{-webkit-transform:rotate(360deg)}}
+        <!-- @-webkit-keyframes rotate{50%{-webkit-transform:rotate(360deg)}} -->
     </style>
     <g id="layer1" transform="translate(0 -257.313)" style="-webkit-animation:rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate;animation:rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate">
         <g id="g1121" transform="matrix(.99219 0 0 .99219 125.903 130.274)" fill="#c4c6c7" stroke-width="2.024">

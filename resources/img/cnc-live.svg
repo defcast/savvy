@@ -49,30 +49,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-    <style>
-    .black {
-      -webkit-animation: rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate;
-      animation: rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate;
-    }
-
-    @-webkit-keyframes rotate {
-      50% {
-        -webkit-transform: rotate(360deg);
-      }
-    }
-
-    .blue {
-      -webkit-animation: rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate;
-      animation: rotate 4s cubic-bezier(.49,.05,.32,1.04) infinite alternate;
-    }
-
-    @-webkit-keyframes rotate {
-      50% {
-        -webkit-transform: rotate(360deg);
-      }
-    }
-
-</style>
   <g class="black"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
