@@ -33,9 +33,9 @@
     <script src="/resources/js/cnc.js"></script>
 </head>
 <body>
-<object type="image/svg+xml" data="/resources/img/cnc-logo-svgo.svg">
+<object type="image/svg+xml" data="/resources/img/cnc-live-svgo.svg">
   <img src="cnc-live.png" alt="cnc technologies" />
-</object><object type="image/svg+xml" data="/resources/img/cnc-ani.svg">
+</object><object type="image/svg+xml" data="/resources/img/cnc-live.svg">
   <img src="fallback-image.png" alt="…" />
 </object>
 </body>
