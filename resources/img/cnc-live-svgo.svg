@@ -77,11 +77,11 @@
         }
         }
         .rotating {
-        -webkit-animation: rotating 2s linear infinite;
-        -moz-animation: rotating 2s linear infinite;
-        -ms-animation: rotating 2s linear infinite;
-        -o-animation: rotating 2s linear infinite;
-        animation: rotating 2s linear infinite;
+        -webkit-animation: rotating 2s infinite;
+        -moz-animation: rotating 2s infinite;
+        -ms-animation: rotating 2s infinite;
+        -o-animation: rotating 2s infinite;
+        animation: rotating 2s infinite;
         }
     </style>
   <g
