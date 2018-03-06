@@ -76,7 +76,7 @@
             transform: rotate(360deg);
         }
         }
-        .blu {
+        .rotating {
         -webkit-animation: rotating 2s linear infinite;
         -moz-animation: rotating 2s linear infinite;
         -ms-animation: rotating 2s linear infinite;
@@ -110,11 +110,11 @@
          transform="matrix(0.68763,0.72607,-0.70016,0.71398,0,0)" />
     </g>
   </g>
-  <g
+  <g class="rotating"
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="blue">
-    <g class="blu"
+    <g
        style="stroke:#44687c"
        transform="matrix(0.99219,0,0,0.99219,125.903,-127.039)"
        id="g1111">
