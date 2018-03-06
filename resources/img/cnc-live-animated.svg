@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="150" viewBox="0 0 124.354 39.688" id="svg1967">
+    <style>
+        @keyframes bluespin {
+            from {
+                transform:rotate(0deg);
+            }
+            to {
+                transform:rotate(360deg);
+            }
+        }
+        
+        @keyframes blackspin {
+            from {
+                transform:rotate(360deg);
+            }
+            to {
+                transform:rotate(0deg);
+            }
+        }
+    </style>
+    <g id="layer4">
+        <g transform="translate(125.903 -127.039) scale(.99219)" id="g1121" fill="#c4c6c7" stroke-width="2.024">
+            <path d="M-105.664 129.084h.328v37.987h-.328z" id="rect1040"/>
+            <path d="M-148.19-124.555h.303v37.987h-.303z" id="rect1040-2" transform="rotate(-90)"/>
+            <path id="path1057" d="M-104.465 149.118a1.469 1.469 0 0 1-2.077-.002 1.469 1.469 0 0 1 0-2.077 1.469 1.469 0 0 1 2.076-.003 1.469 1.469 0 0 1 .005 2.077"/>
+        </g>
+    </g>
+    <g id="layer2" style="-webkit-transform-origin:17% 50%;-moz-transform-origin:17% 50%;-o-transform-origin:17% 50%;transform-origin:17% 50%;animation-name:blackspin;animation-duration:3000ms;animation-iteration-count:1;animation-timing-function:ease-out">
+        <g transform="translate(125.903 -127.039) scale(.99219)" id="g1105" stroke="#000">
+            <path id="path1003" d="M-95.834 157.639a13.484 13.72 0 0 1-14.74 3.218 13.484 13.72 0 0 1-8.46-12.698 13.484 13.72 0 0 1 8.397-12.74 13.484 13.72 0 0 1 14.756 3.142" fill="none" stroke-width="2.024" stroke-opacity=".918"/>
+            <path d="M-94.979 158.486a15.026 15.134 0 0 1-16.304 3.289 15.026 15.134 0 0 1-9.331-13.861" id="path1005" fill="none" stroke-width="2.024" stroke-opacity=".918"/>
+            <path d="M41.96 179.057h.682v.191h-.682z" id="rect1030" transform="matrix(.68763 .72607 -.70016 .71398 0 0)" stroke-width="2.025"/>
+        </g>
+    </g>
+    <g id="layer3" style="-webkit-transform-origin:17% 50%;-moz-transform-origin:17% 50%;-o-transform-origin:17% 50%;transform-origin:17% 50%;animation-name:bluespin;animation-duration:3000ms;animation-iteration-count:1;animation-timing-function:ease-out">
+        <g transform="translate(125.903 -127.039) scale(.99219)" id="g1111" stroke="#44687c">
+            <path d="M-111.925 154.773a8.763 8.993 0 0 0 9.58 2.126 8.763 8.993 0 0 0 5.508-8.32 8.763 8.993 0 0 0-5.453-8.357 8.763 8.993 0 0 0-9.593 2.058" id="path1007" fill="none" stroke-width="2.024"/>
+            <path id="path1009" d="M-112.727 155.564a10.198 10.82 0 0 0 11.06 2.336 10.198 10.82 0 0 0 6.326-9.907" fill="none" stroke-width="2.024"/>
+            <rect id="rect1032" width=".179" height="1.115" x="33.273" y="191.116" transform="matrix(.76009 .64982 -.7141 .70004 0 0)" ry="0" stroke-width="2.028"/>
+        </g>
+    </g>
+    <g id="layer5">
+        <g id="g978" font-weight="400" font-size="10.583" letter-spacing="0" word-spacing="0" font-family="Lato" stroke-width=".265">
+            <text style="line-height:1.25;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start" x="42.561" y="25.56" id="text2542" fill="#44687c">
+                <tspan id="tspan2540" x="42.561" y="25.56" style="-inkscape-font-specification:'Hiragino Maru Gothic Pro'" font-size="14.111" letter-spacing=".198" font-family="Hiragino Maru Gothic Pro">CNC</tspan>
+            </text>
+            <text style="line-height:1.25;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start" x="79.717" y="25.481" id="text2546">
+                <tspan id="tspan2544" x="79.717" y="25.481" style="-inkscape-font-specification:'Hiragino Maru Gothic ProN'" font-size="14.111" letter-spacing=".542" font-family="Hiragino Maru Gothic ProN">Live</tspan>
+            </text>
+            <text style="line-height:1.25;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start" x="44.94" y="34.468" id="text2550" fill="#c4c6c7">
+                <tspan id="tspan2548" x="44.94" y="34.468" style="-inkscape-font-specification:'Hiragino Maru Gothic Pro'" font-size="7.056" letter-spacing="-.064" font-family="Hiragino Maru Gothic Pro">video management</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
