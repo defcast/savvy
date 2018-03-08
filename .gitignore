@@ -1,5 +1,6 @@
 *.log
 wp-config.php
+wp-config.php.save
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
