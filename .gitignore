@@ -17,4 +17,8 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+<<<<<<< HEAD
 /.DS_Store
+=======
+/.DS_Store
+>>>>>>> d7d69a2b3557dc92d4509ccec7a205ddaa31ba1a
