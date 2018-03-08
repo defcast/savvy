@@ -1,0 +1,26 @@
+.cl-grid{
+    box-sizing: border-box;
+    width: auto;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 60% 30%;
+}
+
+.pb-pitch h2{
+    font-size: 24px;
+    font-weight:normal;
+}
+
+.pb-pitch h3{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.pb-pitch p, .pb-pitch ul{
+    font-size: 14px;
+}
+
+.pb-pitch ul{
+    list-style-type: disc;
+    margin: 0 0 auto 20px;
+}
