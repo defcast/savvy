@@ -1,0 +1,6 @@
+#login h1 a, .login h1 a { display:none !important; }
+#customSuperAuthLogin{ width:300px;margin:0 auto;text-align:center;  }
+#customSuperAuthLogin h3{ padding-bottom:10px; }
+#superauth-login-div {text-align:center;}
+#superauth-login-div h2{width: 100%; text-align: center; border-bottom: 1px solid #ccc; line-height: 0.1em; margin: 10px 0 20px;}
+#superauth-login-div h2 span{background:#fff;padding:0 10px;color:#aaa;}

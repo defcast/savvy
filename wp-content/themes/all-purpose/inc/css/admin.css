@@ -1,0 +1,120 @@
+.all-purpose-form {
+	max-width: 100%;
+	display: block;
+	clear: both;
+	margin: 0;
+	padding-right: 20px;
+}
+
+.all-purpose-form hr {
+	margin-top:20px;
+}
+				
+.all-purpose-form label {
+	font-weight: bold;
+}
+
+.seos_business-info a {
+	color: #fff;
+}
+	
+.cc-clr {
+	display: block;
+	clear: both;
+	content: "";
+}
+				
+.all-purpose-form .form-group  {
+	height: 50px;
+	display:block;
+}
+				
+.all-purpose-form .form-group input {
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.all-purpose-form  .ss-logo {
+	position: relative;
+	top: 12px;
+	width: 60px;
+	height: 60px;
+}
+
+.all-purpose-form  .s-red {
+    background-color: #B70000 !important;
+	border: 1px solid #6B0000 !important;
+	display: block;
+	clear: both;
+	font-size: 40px;
+	font-weight: 900;
+	width: 100%;
+	color: #fff;
+	-webkit-transition: all 0.6s ease;
+	-moz-transition: all 0.6s ease;
+	-o-transition: all 0.6s ease;
+	-ms-transition: all 0.6s ease;
+	transition: all 0.6s ease;
+	font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px #333;
+}
+
+.all-purpose-form h2  {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.s-red:hover {
+    background-color: red !important;
+}
+
+.all-purpose-form .btn {
+	text-align: center;
+	line-height: 80px;
+}
+
+.all-purpose-form  a {
+	text-decoration: none;
+}
+
+.all-purpose-form h1 {
+	font-size: 44px;
+	padding: 30px 0 30px 0;
+	text-align: center;
+}
+
+.sb-demo {
+	width: 70vw;
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+}
+
+.cb-center {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	position: static;
+}
+
+.p-demo {
+	font-family: 'Montserrat', sans-serif;	
+	font-weight: 900;
+	width: 200px;
+	padding:10px;
+	background: #B70000 ;
+	color: #fff;
+	font-size:22px;
+	text-decoration: none;
+	margin: 10px;
+	text-align: center;
+	display: inline-block;
+}
+
+.p-demo:active, 
+.p-demo:hover  {
+	color: #fff;
+	background: red; 
+}

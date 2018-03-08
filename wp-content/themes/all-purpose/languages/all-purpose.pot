@@ -1,0 +1,370 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: All Purpose\n"
+"POT-Creation-Date: 2018-01-13 23:30+0200\n"
+"PO-Revision-Date: 2018-01-13 23:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:16
+msgid "All rights reserved"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "https://seosthemes.com/"
+msgstr ""
+
+#: footer.php:18
+msgid "Theme by Seos Themes"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:36
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-header.php:23
+msgctxt "header image description"
+msgid "Default Image"
+msgstr ""
+
+#: inc/custom-header.php:87
+msgid "Activate Header Image:"
+msgstr ""
+
+#: inc/custom-header.php:91 inc/custom-header.php:282
+msgid "Deactivate Header Image"
+msgstr ""
+
+#: inc/custom-header.php:92 inc/custom-header.php:283
+msgid "Default Image"
+msgstr ""
+
+#: inc/custom-header.php:93 inc/custom-header.php:284
+msgid "All Pages"
+msgstr ""
+
+#: inc/custom-header.php:94 inc/custom-header.php:285
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-header.php:114
+msgid "Hide Overlay:"
+msgstr ""
+
+#: inc/custom-header.php:118 inc/custom-header.php:297
+msgid "Show Overlay"
+msgstr ""
+
+#: inc/custom-header.php:119 inc/custom-header.php:298
+msgid "Hide Overlay"
+msgstr ""
+
+#: inc/custom-header.php:139
+msgid "Header Title:"
+msgstr ""
+
+#: inc/custom-header.php:160
+msgid "Header Title Link:"
+msgstr ""
+
+#: inc/custom-header.php:181
+msgid "Button 1:"
+msgstr ""
+
+#: inc/custom-header.php:202
+msgid "Button 1 Link:"
+msgstr ""
+
+#: inc/custom-header.php:222
+msgid "Button 2:"
+msgstr ""
+
+#: inc/custom-header.php:242
+msgid "Button 2 Link:"
+msgstr ""
+
+#: inc/custom-header.php:259
+msgid "Custom Height"
+msgstr ""
+
+#: inc/custom-header.php:260
+msgid "Min-height 40vw. Max-height 100vw."
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Default Post Image"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Activate Default Image:"
+msgstr ""
+
+#: inc/customizer.php:41 inc/customizer.php:86
+msgid "Hide Default Post Image"
+msgstr ""
+
+#: inc/customizer.php:42 inc/customizer.php:87
+msgid "Activate Default Post Image"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Deactivate Cube Animation:"
+msgstr ""
+
+#: inc/customizer.php:66 inc/customizer.php:99
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer.php:67 inc/customizer.php:100
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer.php:150 inc/customizer.php:156 inc/customizer.php:187
+msgid "All-Purpose Pro"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "All-Purpose with a lot new features."
+msgstr ""
+
+#: inc/customizer.php:188 inc/customizer.php:197
+msgid "\tLearn more about All-Purpose. "
+msgstr ""
+
+#: inc/customizer.php:195 inc/customizer.php:208
+msgid "All-Purpose Pro Theme Options"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:222 inc/customizer.php:248 inc/customizer.php:274
+#: inc/customizer.php:301 inc/customizer.php:328
+msgid ""
+"<a target=\"_blank\" href=\"https://seosthemes.com/free-wordpress-all-"
+"purpose-theme/\">Buy All-Purpose Pro - €39.99</a> <br /><br />\n"
+"\t\t\t\t<a target=\"_blank\" href=\"https://seosthemes.info/all-purpose-free-"
+"wordpress-theme/\">All-Purpose Pro Demo</a> "
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Disable All Comments"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Disable Meta"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Disable Titles"
+msgstr ""
+
+#: inc/premium-options.php:29
+msgid "Buy"
+msgstr ""
+
+#: inc/premium-options.php:29
+msgid " Now"
+msgstr ""
+
+#: inc/premium-options.php:34
+msgid ""
+"You can support us by Buying an All-Purpose Pro theme with a lot new "
+"features & extensions!"
+msgstr ""
+
+#: inc/template-tags.php:24
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:46 inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:48
+#, php-format
+msgid " Posted in %1$s "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:61
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:68 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-functions.php:26
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-functions.php:70
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:72
+msgid "Add widgets here."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/theme-functions.php:146
+#, php-format
+msgid "Read More<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content.php:74
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:36 template-parts/content.php:52
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:69
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "All Purpose"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/free-wordpress-all-purpose-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"All-Purpose is clear, easy to customize WP template. All-Purpose  is a "
+"modern multi-purpose HTML5 theme with a responsive 2 column layout. The "
+"theme is excellent for a photography, photographer, newspaper, images, "
+"photos, publishing, news, blog, business, portfolio or other editorial "
+"websites. To learn more about the theme please go to the theme uri and read "
+"the documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tsvetomir Tsvetanov"
+msgstr ""
