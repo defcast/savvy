@@ -100,7 +100,7 @@ class Epsilon_Welcome_Screen {
 		$defaults = array(
 			'theme-name'  => $theme->get( 'Name' ),
 			'theme-slug'  => $theme->get( 'TextDomain' ),
-			'author-logo' => get_template_directory_uri() . '/inc/libraries/welcome-screen/img/colorlib.png',
+			'author-logo' => get_template_directory_uri() . '/inc/libraries/welcome-screen/img/cnc.png',
 			'actions'     => array(),
 			'plugins'     => array(),
 			'notice'      => '',
@@ -364,7 +364,7 @@ class Epsilon_Welcome_Screen {
 			$this->notice .= '<p>';
 			$this->notice .=
 				sprintf( /* Translators: Notice */
-					esc_html__( 'Welcome! Thank you for choosing %3$s! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s.', 'epsilon-framework' ),
+					esc_html__( 'Welcome to the %3$s administation controls. Make sure you visit our %1$swelcome page%2$s.', 'epsilon-framework' ),
 					'<a href="' . esc_url( admin_url( 'themes.php?page=' . $this->theme_slug . '-welcome' ) ) . '">',
 					'</a>',
 					$this->theme_name
@@ -392,9 +392,9 @@ class Epsilon_Welcome_Screen {
 		/* Translators: Menu Title */
 		$title = sprintf( esc_html__( 'About %1$s', 'epsilon-framework' ), esc_html( $this->theme_name ) );
 
-		if ( 0 < $this->actions_count ) {
+/* 		if ( 0 < $this->actions_count ) {
 			$title .= '<span class="badge-action-count">' . esc_html( $this->actions_count ) . '</span>';
-		}
+		} */
 
 		add_theme_page(
 			$this->theme_name,
@@ -502,33 +502,15 @@ class Epsilon_Welcome_Screen {
 				'label' => __( 'Getting Started', 'epsilon-framework' ),
 				'path'  => get_template_directory() . '/inc/libraries/welcome-screen/sections/getting-started.php',
 			),
-			'recommended-actions' => array(
-				'id'    => 'recommended-actions',
-				'url'   => $this->generate_admin_url( 'recommended-actions' ),
-				'label' => __( 'Recommended Actions', 'epsilon-framework' ),
-				'path'  => get_template_directory() . '/inc/libraries/welcome-screen/sections/recommended-actions.php',
-			),
-			'recommended-plugins' => array(
-				'id'    => 'recommended-plugins',
-				'url'   => $this->generate_admin_url( 'recommended-plugins' ),
-				'label' => __( 'Recommended Plugins', 'epsilon-framework' ),
-				'path'  => get_template_directory() . '/inc/libraries/welcome-screen/sections/recommended-plugins.php',
-			),
 			'support'             => array(
 				'id'    => 'support',
 				'url'   => $this->generate_admin_url( 'support' ),
 				'label' => __( 'Support', 'epsilon-framework' ),
 				'path'  => get_template_directory() . '/inc/libraries/welcome-screen/sections/support.php',
 			),
-			'registration'        => array(
-				'id'    => 'registration',
-				'url'   => $this->generate_admin_url( 'registration' ),
-				'label' => __( 'Registration', 'epsilon-framework' ),
-				'path'  => get_template_directory() . '/inc/libraries/welcome-screen/sections/registration.php',
-			),
 		);
 
-		if ( 0 === count( $this->plugins ) ) {
+/* 		if ( 0 === count( $this->plugins ) ) {
 			unset( $arr['recommended-plugins'] );
 		}
 
@@ -538,7 +520,7 @@ class Epsilon_Welcome_Screen {
 
 		if ( ! $this->edd ) {
 			unset( $arr['registration'] );
-		}
+		} */
 
 		if ( isset( $config['sections_exclude'] ) && ! empty( $config['sections_exclude'] ) ) {
 			foreach ( $config['sections_exclude'] as $id ) {

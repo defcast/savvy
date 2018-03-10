@@ -122,6 +122,8 @@ if ( ! function_exists( 'CNC_setup' ) ) :
 endif;
 add_action( 'after_setup_theme', 'CNC_setup' );
 
+add_filter(‘signup_header’, ‘__return_false’);
+
 /**
  * Set the content width in pixels, based on the theme's design and stylesheet.
  *
