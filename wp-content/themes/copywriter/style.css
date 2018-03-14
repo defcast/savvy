@@ -1,0 +1,84 @@
+/*
+Theme Name: Copywriter
+Theme URI: https://vaultthemes.com/wordpress-themes/copywriter/
+Author: VaultThemes
+Author URI: https://vaultthemes.com/
+Description: Copywriter is a professional looking, high quality WordPress theme for news or blog websites. It is mobile responsive so it looks amazingly awesome in mobiles and tablets. Colors etc can be easily changed from Customize section of WordPress admin panel.
+Version: 1.4.1
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: copywriter
+Tags: one-column, two-columns, left-sidebar, custom-colors, custom-background, custom-menu, custom-logo, featured-images, full-width-template, theme-options, translation-ready, blog
+*/
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 98.5%;
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption p.wp-caption-text {
+    font-size: 12px;
+    line-height: 17px;
+    margin: 0;
+    text-align: center;
+    padding: 10px 4px 0px;
+    color: #828A95;
+}
+.wp-caption a {
+  /*  color: #fff;*/
+}
+.wp-caption,
+.gallery {
+    margin-bottom: 1.6842em;
+}
+iframe,
+embed {
+    max-width: 100%;
+}
+.sticky .entry-date {
+    display: none;
+}
+.gallery-caption {
+    padding: 6px 8px;
+}
+.gallery-item:hover .gallery-caption {
+    opacity: 1;
+}
+img, video{
+    height: auto;
+    max-width: 100%;
+}
+.bypostauthor {margin-left: 15px;font-size: 16px;}
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alignright {
+    display: inline;
+    float: right;
+}
+img {width: auto;max-width: 100%;}
